@@ -1,0 +1,1 @@
+biddify-payment-node.js
